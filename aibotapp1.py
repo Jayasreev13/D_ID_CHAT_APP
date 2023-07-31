@@ -1,3 +1,3 @@
 import streamlit as st
 st.title("Jay-AI Business VideoBot")
-st.video("jay_business_bot.mp4")
+st.video("AI_Bot_1.mp4")
